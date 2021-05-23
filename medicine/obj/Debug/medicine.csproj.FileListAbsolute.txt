@@ -1,0 +1,13 @@
+E:\c#\medicine system\medicine\medicine\bin\Debug\medicine.exe.config
+E:\c#\medicine system\medicine\medicine\bin\Debug\medicine.exe
+E:\c#\medicine system\medicine\medicine\bin\Debug\medicine.pdb
+E:\c#\medicine system\medicine\medicine\obj\Debug\medicine.csprojAssemblyReference.cache
+E:\c#\medicine system\medicine\medicine\obj\Debug\medicine.Login.resources
+E:\c#\medicine system\medicine\medicine\obj\Debug\medicine.Registration.resources
+E:\c#\medicine system\medicine\medicine\obj\Debug\medicine.Properties.Resources.resources
+E:\c#\medicine system\medicine\medicine\obj\Debug\medicine.csproj.GenerateResource.cache
+E:\c#\medicine system\medicine\medicine\obj\Debug\medicine.exe
+E:\c#\medicine system\medicine\medicine\obj\Debug\medicine.pdb
+E:\c#\medicine system\medicine\medicine\obj\Debug\medicine.UserHomepage.resources
+E:\c#\medicine system\medicine\medicine\obj\Debug\medicine.Admin.resources
+E:\c#\medicine system\medicine\medicine\obj\Debug\medicine.OrderMedicine.resources
